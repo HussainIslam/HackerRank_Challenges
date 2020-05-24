@@ -1,4 +1,4 @@
-# iterpools.permutations()
+# itertools.permutations()
 
 (itertools.permutations(iterable[, r]))[https://docs.python.org/2/library/itertools.html#itertools.permutations]
 
