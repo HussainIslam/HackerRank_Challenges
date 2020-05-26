@@ -1,4 +1,4 @@
-# iterpools.combinations()
+# itertools.combinations()
 
 (itertools.combinations(iterable, r))[https://docs.python.org/2/library/itertools.html#itertools.combinations]
 This tool returns the `r` length subsequences of elements from the input iterable.
