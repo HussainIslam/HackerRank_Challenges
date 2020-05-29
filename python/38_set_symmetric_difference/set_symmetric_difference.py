@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-#!/usr/bin/python
 if __name__ == "__main__":
     number_of_students_english = int(input())
     set_of_students_english = set(list(map(int, input().split())))
